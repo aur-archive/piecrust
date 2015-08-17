@@ -1,0 +1,13 @@
+pkgbase = piecrust
+	pkgdesc = Static website generator and lightweight CMS in php that’s all managed with text files.
+	pkgver = 1.2.0
+	pkgrel = 1
+	url = http://bolt80.com/piecrust/
+	install = piecrust.install
+	arch = any
+	license = APACHE
+	depends = php
+	source = http://backend.bolt80.com/piecrust/version_1.2.0/piecrust.phar
+
+pkgname = piecrust
+
